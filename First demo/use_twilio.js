@@ -1,6 +1,6 @@
 var twilio = require('twilio')
 
-var client = new twilio.RestClient('AC7a8a1d7226a44abd399ea2770d2cc94f', '2ad836bf508a68b6594f81f340bb6862');
+var client = new twilio.RestClient('Account', 'PWD');
 
 client.sendMessage({
 	to: '+1xxx',
