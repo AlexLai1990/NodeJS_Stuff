@@ -1,5 +1,5 @@
 
-Stufy note for node js
+Study notes for node js
 
 npm install
 npm start
